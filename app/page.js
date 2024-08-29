@@ -10,7 +10,6 @@ export default function Home() {
   const [open, setOpen] = useState(false);
   const [itemName, setItemName] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
-  const [recipe, setRecipe] = useState('');
 
 
 
